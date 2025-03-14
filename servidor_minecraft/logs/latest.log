@@ -1,56 +1,26 @@
-[13:18:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:18:48] [ServerMain/INFO]: Loaded 1290 recipes
-[13:18:48] [ServerMain/INFO]: Loaded 1399 advancements
-[13:18:50] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[13:18:50] [Server thread/INFO]: Loading properties
-[13:18:50] [Server thread/INFO]: Default game type: SURVIVAL
-[13:18:50] [Server thread/INFO]: Generating keypair
-[13:18:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:18:51] [Server thread/INFO]: Using epoll channel type
-[13:18:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:18:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:18:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:18:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:18:51] [Server thread/INFO]: Preparing level "world"
-[13:19:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:19:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:19:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:19:04] [Server thread/INFO]: Time elapsed: 1124 ms
-[13:19:04] [Server thread/INFO]: Done (13.303s)! For help, type "help"
-[13:19:06] [Server thread/INFO]: Cubart[/127.219.107.52:35121] logged in with entity id 6 at (515.5977873177177, 64.0, -890.9889535791243)
-[13:19:07] [Server thread/INFO]: Cubart joined the game
-[13:19:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2187ms or 43 ticks behind
-[13:19:25] [Server thread/WARN]: UUID of added entity already exists: cft['Panda'/298, l='ServerLevel[world]', x=335.97, y=64.00, z=-817.91]
-[14:27:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=483, y=68, z=-967} jd{x=481, y=68, z=-968}
-[14:34:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[14:34:22] [Server thread/INFO]: <--[HERE]
-[14:38:59] [Server thread/WARN]: Cubart moved too quickly! 8.45881729277744,1.7518640014090607,5.604769067157349
-[14:43:39] [Server thread/WARN]: Cubart moved too quickly! 5.6311609454878635,0.8322033533667508,-8.577310225145538
-[14:43:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
-[14:46:00] [Server thread/WARN]: Cubart moved too quickly! 9.980165760804994,-0.8971759102604295,1.4335391886113484
-[14:46:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[14:54:48] [Server thread/WARN]: Oak Boat (vehicle of Cubart) moved too quickly! 10.354901810098454,0.0,0.25419919767796273
-[14:54:48] [Server thread/WARN]: Oak Boat (vehicle of Cubart) moved too quickly! 10.754490580629863,0.0,0.26400857556814117
-[14:54:48] [Server thread/WARN]: Oak Boat (vehicle of Cubart) moved too quickly! 11.15410831924055,0.0,0.2738186645863152
-[14:54:48] [Server thread/WARN]: Oak Boat (vehicle of Cubart) moved too quickly! 11.553752129121676,0.0,0.2836293936200036
-[14:54:48] [Server thread/WARN]: Oak Boat (vehicle of Cubart) moved too quickly! 11.953419403146654,0.0,0.2934406986673821
-[14:54:48] [Server thread/WARN]: Oak Boat (vehicle of Cubart) moved too quickly! 12.353107794899188,0.0,0.30325252212719533
-[14:54:48] [Server thread/WARN]: Oak Boat (vehicle of Cubart) moved too quickly! 12.752815192607159,0.0,0.31306481215824533
-[14:54:48] [Server thread/WARN]: Oak Boat (vehicle of Cubart) moved too quickly! 13.152539695674022,0.0,0.3228775221032265
-[15:30:01] [Server thread/WARN]: Birch Boat (vehicle of Cubart) moved too quickly! -10.184140501474758,2.2447053993346344E-7,-1.8077351898052711
-[15:30:01] [Server thread/WARN]: Birch Boat (vehicle of Cubart) moved too quickly! -10.57147395926404,2.2601626170626332E-7,-1.9050591745112797
-[15:30:01] [Server thread/WARN]: Birch Boat (vehicle of Cubart) moved too quickly! -10.958625102033693,2.273408057362758E-7,-2.0033192680659795
-[15:30:51] [Server thread/WARN]: Birch Boat (vehicle of Cubart) moved too quickly! -3.3656035662024806,0.0,-9.700377693478686
-[15:30:51] [Server thread/WARN]: Birch Boat (vehicle of Cubart) moved too quickly! -3.5320533540379984,0.0,-10.062581870563918
-[15:30:51] [Server thread/WARN]: Birch Boat (vehicle of Cubart) moved too quickly! -3.6987972515489673,0.0,-10.424801888842012
-[15:30:51] [Server thread/WARN]: Birch Boat (vehicle of Cubart) moved too quickly! -3.865764146861693,0.0,-10.787055628834878
-[15:30:51] [Server thread/WARN]: Birch Boat (vehicle of Cubart) moved too quickly! -4.032896973918469,0.0,-11.149355901031413
-[15:30:51] [Server thread/WARN]: Birch Boat (vehicle of Cubart) moved too quickly! -4.200144356505007,0.0,-11.511714201343693
-[15:30:51] [Server thread/WARN]: Birch Boat (vehicle of Cubart) moved too quickly! -4.3674635205507,0.0,-11.87413923696431
-[15:30:51] [Server thread/WARN]: Birch Boat (vehicle of Cubart) moved too quickly! -4.534819439500097,0.0,-12.236637201513531
-[15:30:51] [Server thread/WARN]: Birch Boat (vehicle of Cubart) moved too quickly! -4.702184061425214,0.0,-12.599212048748086
-[15:30:51] [Server thread/WARN]: Birch Boat (vehicle of Cubart) moved too quickly! -4.869535617149268,0.0,-12.961865720273181
-[15:36:38] [Server thread/WARN]: Cubart moved too quickly! -8.17843242773779,0.8322033533667508,5.907017756950154
-[15:36:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2352ms or 47 ticks behind
-[15:39:21] [Server thread/INFO]: Cubart lost connection: Disconnected
-[15:39:21] [Server thread/INFO]: Cubart left the game
+[17:09:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:10:01] [ServerMain/INFO]: Loaded 1290 recipes
+[17:10:01] [ServerMain/INFO]: Loaded 1399 advancements
+[17:10:02] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:10:02] [Server thread/INFO]: Loading properties
+[17:10:02] [Server thread/INFO]: Default game type: SURVIVAL
+[17:10:02] [Server thread/INFO]: Generating keypair
+[17:10:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:10:03] [Server thread/INFO]: Using epoll channel type
+[17:10:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:10:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:10:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:10:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:10:03] [Server thread/INFO]: Preparing level "world"
+[17:10:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:10:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:10:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:10:15] [Server thread/INFO]: Time elapsed: 1097 ms
+[17:10:15] [Server thread/INFO]: Done (11.613s)! For help, type "help"
+[17:10:16] [Server thread/INFO]: Patatapuerco75[/127.55.3.177:50995] logged in with entity id 6 at (10.5, 64.0, 8.5)
+[17:10:16] [Server thread/INFO]: Patatapuerco75 joined the game
+[17:11:13] [Server thread/INFO]: Patatapuerco75 has made the advancement [Stone Age]
+[17:12:07] [Server thread/INFO]: Patatapuerco75 has made the advancement [Getting an Upgrade]
+[17:13:30] [Server thread/INFO]: Patatapuerco75 has made the advancement [Monster Hunter]
+[17:17:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-45, y=70, z=-76} jd{x=15, y=63, z=0}
+[17:17:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-45, y=70, z=-76} jd{x=15, y=63, z=0}
