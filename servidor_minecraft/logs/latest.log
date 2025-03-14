@@ -57,3 +57,33 @@
 [21:19:42] [Server thread/INFO]: Patatapuerco75 joined the game
 [21:19:42] [Server thread/INFO]: Patatapuerco75[/127.55.3.177:48413] logged in with entity id 9934 at ([world]28.30000001192093, 42.0, 12.66894383005524)
 [21:25:00] [Server thread/INFO]: Cubart has made the advancement [Ol' Betsy]
+[21:35:41] [Server thread/INFO]: Cubart issued server command: /trade Patatapuerco75
+[21:38:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/stop<--[HERE]
+[21:38:58] [Server thread/INFO]: Stopping server
+[21:38:58] [Server thread/INFO]: [TradePro] Disabling TradePro v2.0
+[21:38:58] [Server thread/INFO]: Saving players
+[21:38:58] [Server thread/INFO]: Cubart lost connection: Server closed
+[21:38:58] [Server thread/INFO]: Cubart left the game
+[21:38:58] [Server thread/INFO]: Patatapuerco75 lost connection: Server closed
+[21:38:58] [Server thread/INFO]: Patatapuerco75 left the game
+[21:38:58] [Server thread/INFO]: Saving worlds
+[21:38:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:38:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:38:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:38:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:38:59] [Server thread/INFO]: [ChunkHolderManager] Saved 219 block chunks, 504 entity chunks, 2 poi chunks in world 'world' in 0.55s
+[21:38:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:38:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:38:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:38:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:38:59] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[21:38:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:38:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:38:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:38:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:38:59] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[21:38:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:38:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:38:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:38:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
