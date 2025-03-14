@@ -36,3 +36,21 @@
 [18:10:11] [Server thread/INFO]: [Cubart: Teleported Cubart to 526.500000, 65.000000, -841.500000]
 [18:14:28] [Server thread/INFO]: Patatapuerco75 has made the advancement [Not Today, Thank You]
 [18:23:21] [Server thread/INFO]: Patatapuerco75 has made the advancement [Diamonds!]
+[18:40:01] [Server thread/INFO]: [Not Secure] <Patatapuerco75> ahora vuelvo
+[18:40:06] [Server thread/INFO]: [Not Secure] <Cubart> va
+[18:40:07] [Server thread/INFO]: Patatapuerco75 lost connection: Disconnected
+[18:40:07] [Server thread/INFO]: Patatapuerco75 left the game
+[19:06:15] [Server thread/INFO]: Cubart has made the advancement [Cover Me with Diamonds]
+[19:22:51] [Server thread/INFO]: Cubart lost connection: Disconnected
+[19:22:51] [Server thread/INFO]: Cubart left the game
+[19:23:02] [Server thread/INFO]: Stopping the server
+[19:23:02] [Server thread/INFO]: Stopping server
+[19:23:02] [Server thread/INFO]: Saving players
+[19:23:02] [Server thread/INFO]: Saving worlds
+[19:23:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:23:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:23:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:23:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:23:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:23:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:23:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
