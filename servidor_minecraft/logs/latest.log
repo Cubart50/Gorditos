@@ -21,3 +21,4 @@
 [13:19:07] [Server thread/INFO]: Cubart joined the game
 [13:19:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2187ms or 43 ticks behind
 [13:19:25] [Server thread/WARN]: UUID of added entity already exists: cft['Panda'/298, l='ServerLevel[world]', x=335.97, y=64.00, z=-817.91]
+[14:27:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=483, y=68, z=-967} jd{x=481, y=68, z=-968}
