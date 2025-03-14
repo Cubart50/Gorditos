@@ -1826,5 +1826,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-14 21:25:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-03-14 21:25:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
