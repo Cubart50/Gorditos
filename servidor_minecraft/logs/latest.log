@@ -53,3 +53,6 @@
 [09:48:09] [Server thread/INFO]: Cubart joined the game
 [09:48:09] [Server thread/INFO]: Cubart[/127.219.107.52:37075] logged in with entity id 103 at ([world]561.0266309083885, 69.0, -892.3576765951989)
 [09:48:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[10:04:22] [User Authenticator #1/INFO]: UUID of player Patatapuerco75 is d1823aee-d3ab-3d2d-8370-57591b03d7b4
+[10:04:23] [Server thread/INFO]: Patatapuerco75 joined the game
+[10:04:23] [Server thread/INFO]: Patatapuerco75[/127.55.3.177:58421] logged in with entity id 2317 at ([world]619.8088367778823, 79.875, -871.1692750110113)
