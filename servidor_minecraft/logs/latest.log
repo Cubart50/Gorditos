@@ -69,3 +69,17 @@
 [12:46:35] [Server thread/INFO]: Cubart issued server command: /tp 69 64 -110
 [12:46:35] [Server thread/INFO]: [Cubart: Teleported Cubart to 69.500000, 64.000000, -109.500000]
 [13:15:24] [Server thread/INFO]: Cubart has made the advancement [Hidden in the Depths]
+[14:06:09] [Server thread/INFO]: Cubart was blown up by Creeper
+[14:06:09] [Server thread/INFO]: Villager Villager['Villager'/33139, uuid='680a61f4-27f3-4e9c-a718-8c9f53d250db', l='ServerLevel[world]', x=519.47, y=63.56, z=-904.57, cpos=[32, -57], tl=196059, v=true] died, message: 'Villager was blown up by Creeper'
+[14:06:09] [Server thread/INFO]: Villager Villager['Villager'/33116, uuid='82f74bad-e984-4512-9116-cff71648ec8e', l='ServerLevel[world]', x=519.22, y=63.56, z=-902.77, cpos=[32, -57], tl=183437, v=true] died, message: 'Villager was blown up by Creeper'
+[14:06:22] [Server thread/INFO]: Cubart issued server command: /tp 69 64 -110
+[14:06:22] [Server thread/INFO]: [Cubart: Teleported Cubart to 69.500000, 64.000000, -109.500000]
+[14:07:05] [Server thread/INFO]: Cubart issued server command: /tp 100 65 -500
+[14:07:05] [Server thread/INFO]: [Cubart: Teleported Cubart to 100.500000, 65.000000, -499.500000]
+[14:08:16] [Server thread/INFO]: Cubart issued server command: /tp 500 65 -500
+[14:08:16] [Server thread/INFO]: [Cubart: Teleported Cubart to 500.500000, 65.000000, -499.500000]
+[14:08:24] [Server thread/INFO]: Cubart issued server command: /tp 500 64 -500
+[14:08:24] [Server thread/INFO]: [Cubart: Teleported Cubart to 500.500000, 64.000000, -499.500000]
+[14:08:28] [Server thread/INFO]: Cubart suffocated in a wall
+[14:08:50] [Server thread/INFO]: Cubart issued server command: /tp 526 64 -842
+[14:08:50] [Server thread/INFO]: [Cubart: Teleported Cubart to 526.500000, 64.000000, -841.500000]
