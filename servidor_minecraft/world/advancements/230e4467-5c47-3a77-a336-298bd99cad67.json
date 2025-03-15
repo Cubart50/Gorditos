@@ -885,6 +885,7 @@
     "criteria": {
       "minecraft:blaze": "2025-03-14 23:44:02 +0000",
       "minecraft:skeleton": "2025-03-14 00:14:22 +0000",
+      "minecraft:piglin": "2025-03-15 12:27:47 +0000",
       "minecraft:magma_cube": "2025-03-14 23:40:48 +0000",
       "minecraft:spider": "2025-03-14 19:11:34 +0000",
       "minecraft:wither_skeleton": "2025-03-14 23:34:45 +0000",
@@ -1891,7 +1892,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-03-14 23:29:05 +0000"
+      "minecraft:crimson_forest": "2025-03-15 12:27:51 +0000",
+      "minecraft:soul_sand_valley": "2025-03-14 23:29:05 +0000",
+      "minecraft:nether_wastes": "2025-03-15 12:27:41 +0000",
+      "minecraft:basalt_deltas": "2025-03-15 12:25:43 +0000"
     },
     "done": false
   },
@@ -2045,9 +2049,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-15 12:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-03-15 12:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-15 12:27:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-03-15 11:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-15 12:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-15 12:26:13 +0000"
     },
     "done": true
   },
