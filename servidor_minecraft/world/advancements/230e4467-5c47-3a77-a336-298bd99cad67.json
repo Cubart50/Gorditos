@@ -2135,6 +2135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-15 13:15:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-03-15 12:38:44 +0000"
@@ -2243,6 +2249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-15 13:15:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-03-15 12:28:12 +0000"
@@ -2282,6 +2294,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-03-15 12:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-15 13:15:24 +0000"
     },
     "done": true
   },
