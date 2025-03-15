@@ -51,3 +51,15 @@
 [16:58:22] [Server thread/INFO]: Villager Villager['Villager'/44, uuid='df3d8b7d-b3cc-4c5e-b685-f229708029ac', l='ServerLevel[world]', x=525.30, y=64.00, z=-915.30, cpos=[32, -58], tl=315992, v=true] died, message: 'Villager was slain by Zombie Villager'
 [17:06:15] [Server thread/INFO]: Cubart has made the advancement [Not Today, Thank You]
 [17:20:46] [Async Chat Thread - #2/INFO]: <Cubart> aaaaaaaaaaaaaaa
+[17:32:11] [Server thread/INFO]: Cubart issued server command: /team add GORDO
+[17:32:11] [Server thread/INFO]: [Cubart: Created team [GORDO]]
+[17:32:37] [Server thread/INFO]: Cubart issued server command: /team modify GORDO color gold
+[17:32:37] [Server thread/INFO]: [Cubart: Updated the color for team [GORDO] to gold]
+[17:32:47] [Server thread/INFO]: Cubart issued server command: /team join GORDO
+[17:32:47] [Server thread/INFO]: [Cubart: Added Cubart to team [GORDO]]
+[17:33:48] [Server thread/INFO]: Cubart issued server command: /team modify GORDO color white
+[17:33:48] [Server thread/INFO]: [Cubart: Updated the color for team [GORDO] to white]
+[17:35:56] [Server thread/INFO]: Cubart issued server command: /team modify GORDO prefix {"text":"[GORDO]","color":gold}
+[17:37:27] [Server thread/INFO]: Team prefix set to [GORDO] 
+[17:39:05] [Server thread/INFO]: Cubart issued server command: /teammsg hihihi
+[17:39:10] [Async Chat Thread - #4/INFO]: <Cubart> hihih
