@@ -1,107 +1,80 @@
-[13:07:45] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[13:07:45] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[13:07:45] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[13:07:47] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[13:07:47] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[14:55:00] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[14:55:00] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[14:55:01] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[14:55:01] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[14:55:01] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - TradePro (2.0)
-[13:07:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:08:01] [ServerMain/INFO]: Loaded 1290 recipes
-[13:08:02] [ServerMain/INFO]: Loaded 1399 advancements
-[13:08:02] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[13:08:02] [Server thread/INFO]: Loading properties
-[13:08:02] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[13:08:04] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[13:08:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[13:08:05] [Server thread/INFO]: Using 4 threads for Netty based IO
-[13:08:06] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[13:08:07] [Server thread/INFO]: Default game type: SURVIVAL
-[13:08:07] [Server thread/INFO]: Generating keypair
-[13:08:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:08:07] [Server thread/INFO]: Using epoll channel type
-[13:08:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[13:08:07] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[13:08:08] [Server thread/INFO]: [TradePro] Loading server plugin TradePro v2.0
-[13:08:08] [Server thread/INFO]: [TradePro] Failed to hook into worldguard. Ignore this if you don't have worldguard.
-[13:08:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:08:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:08:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:08:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:08:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:08:08] [Server thread/INFO]: Preparing level "world"
-[13:08:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:08:15] [Server thread/INFO]: Time elapsed: 6102 ms
-[13:08:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[13:08:17] [Server thread/INFO]: Time elapsed: 2259 ms
-[13:08:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[13:08:18] [Server thread/INFO]: Time elapsed: 518 ms
-[13:08:18] [Server thread/INFO]: [TradePro] Enabling TradePro v2.0
-[13:08:18] [Server thread/INFO]: [TradePro] config.yml already exists, skipping creation.
-[13:08:18] [Server thread/INFO]: [TradePro] lang.yml already exists, skipping creation.
-[13:08:18] [Server thread/INFO]: [TradePro] gui.yml already exists, skipping creation.
-[13:08:19] [TaskChainAsyncQueue Thread 0/INFO]: §a[TradePro] Detected Minecraft version: 121
-[13:08:19] [TaskChainAsyncQueue Thread 0/INFO]: §a[TradePro] Sounds loaded successfully!
-[13:08:19] [Server thread/INFO]: [TradePro] TradePro has started successfully!
-[13:08:19] [Server thread/INFO]: [spark] Starting background profiler...
-[13:08:20] [Server thread/INFO]: Done preparing level "world" (12.276s)
-[13:08:20] [Server thread/INFO]: Running delayed init tasks
-[13:08:21] [Server thread/INFO]: §a[TradePro] Sounds loaded successfully!
-[13:08:22] [Craft Scheduler Thread - 3 - TradePro/INFO]: [TradePro] Plugin is up to date.
-[13:08:22] [Server thread/INFO]: [TradePro] Web panel is disabled in config.yml
-[13:08:22] [Server thread/INFO]: Done (39.738s)! For help, type "help"
-[13:08:22] [Server thread/INFO]: Timings Reset
-[13:09:22] [User Authenticator #0/INFO]: UUID of player orxaatita is 993132ed-3368-3749-a2b5-8bd029f15d99
-[13:09:24] [Server thread/INFO]: orxaatita joined the game
-[13:09:25] [Server thread/INFO]: orxaatita[/127.110.159.208:36909] logged in with entity id 32 at ([world]846.5368561150167, 63.53584062504456, 110.83510327983035)
-[13:09:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2637ms or 52 ticks behind
-[13:38:44] [User Authenticator #1/INFO]: UUID of player Cubart is 230e4467-5c47-3a77-a336-298bd99cad67
-[13:38:46] [Server thread/INFO]:  [GORDO] Cubart  joined the game
-[13:38:46] [Server thread/INFO]: Cubart[/127.101.162.158:44659] logged in with entity id 5448 at ([world]521.3175408574846, 64.0, -901.4638675673154)
-[13:39:02] [Async Chat Thread - #1/INFO]: [Not Secure] <orxaatita> a ti se te guardo??
-[13:39:11] [Async Chat Thread - #1/INFO]: [Not Secure] <Cubart> no fue el server
-[13:40:06] [Async Chat Thread - #1/INFO]: [Not Secure] <Cubart> pero solo fue la info de jugadores
-[13:40:18] [Async Chat Thread - #1/INFO]: [Not Secure] <orxaatita> como??
-[13:40:18] [Async Chat Thread - #1/INFO]: [Not Secure] <Cubart> el mundo si esta como ayer
-[13:40:33] [Async Chat Thread - #1/INFO]: [Not Secure] <Cubart> osea tengo los aldeanos bruja pero no tengo netherite
-[13:40:42] [Async Chat Thread - #1/INFO]: [Not Secure] <orxaatita> ahh ok
-[13:40:49] [Async Chat Thread - #2/INFO]: [Not Secure] <Cubart> cosas de miakra
-[13:40:54] [Async Chat Thread - #1/INFO]: [Not Secure] <Cubart> juego mal hecho
-[13:40:55] [Async Chat Thread - #1/INFO]: [Not Secure] <orxaatita> ostia yo no se volver a casa
-[13:40:58] [Async Chat Thread - #1/INFO]: [Not Secure] <orxaatita> no se usar coordenadas
-[13:41:06] [Async Chat Thread - #1/INFO]: [Not Secure] <Cubart> es to facil
-[13:41:25] [Async Chat Thread - #2/INFO]: [Not Secure] <Cubart> me tengo q ir a bañar limpiar cocinar
-[13:41:30] [Async Chat Thread - #1/INFO]: [Not Secure] <Cubart> entre solo a ver
-[13:41:39] [Async Chat Thread - #2/INFO]: [Not Secure] <Cubart> despues vuelvo y si estas te enseño
-[13:41:44] [Async Chat Thread - #1/INFO]: [Not Secure] <orxaatita> oka
-[13:41:46] [Async Chat Thread - #1/INFO]: [Not Secure] <orxaatita> grasia
-[13:41:49] [Server thread/INFO]: Cubart lost connection: Disconnected
-[13:41:49] [Server thread/INFO]:  [GORDO] Cubart  left the game
-[13:52:20] [Server thread/INFO]: orxaatita lost connection: Disconnected
-[13:52:20] [Server thread/INFO]: orxaatita left the game
-[14:51:51] [User Authenticator #2/INFO]: UUID of player Cubart is 230e4467-5c47-3a77-a336-298bd99cad67
-[14:51:53] [Server thread/INFO]:  [GORDO] Cubart  joined the game
-[14:51:53] [Server thread/INFO]: Cubart[/127.101.162.158:50259] logged in with entity id 8735 at ([world]518.7405127961287, 63.5625, -903.5260519543465)
-[14:52:01] [Server thread/INFO]: Cubart lost connection: Disconnected
-[14:52:01] [Server thread/INFO]:  [GORDO] Cubart  left the game
-[14:52:13] [Server thread/INFO]: Stopping server
-[14:52:13] [Server thread/INFO]: [TradePro] Disabling TradePro v2.0
-[14:52:13] [Server thread/INFO]: Saving players
-[14:52:14] [Server thread/INFO]: Saving worlds
-[14:52:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:52:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[14:52:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[14:52:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[14:52:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 142 entity chunks, 0 poi chunks in world 'world' in 0.09s
-[14:52:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[14:52:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[14:52:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[14:52:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[14:52:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
-[14:52:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[14:52:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[14:52:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[14:52:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[14:52:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[14:52:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:52:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:52:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:52:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:55:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:55:10] [ServerMain/INFO]: Loaded 1290 recipes
+[14:55:10] [ServerMain/INFO]: Loaded 1399 advancements
+[14:55:11] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[14:55:11] [Server thread/INFO]: Loading properties
+[14:55:11] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[14:55:12] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[14:55:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:55:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:55:13] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[14:55:13] [Server thread/INFO]: Default game type: SURVIVAL
+[14:55:13] [Server thread/INFO]: Generating keypair
+[14:55:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:55:14] [Server thread/INFO]: Using epoll channel type
+[14:55:14] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:55:14] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[14:55:14] [Server thread/INFO]: [TradePro] Loading server plugin TradePro v2.0
+[14:55:14] [Server thread/INFO]: [TradePro] Failed to hook into worldguard. Ignore this if you don't have worldguard.
+[14:55:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:55:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:55:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:55:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:55:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:55:14] [Server thread/INFO]: Preparing level "world"
+[14:55:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:55:20] [Server thread/INFO]: Time elapsed: 4997 ms
+[14:55:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:55:20] [Server thread/INFO]: Time elapsed: 575 ms
+[14:55:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:55:20] [Server thread/INFO]: Time elapsed: 228 ms
+[14:55:20] [Server thread/INFO]: [TradePro] Enabling TradePro v2.0
+[14:55:20] [Server thread/INFO]: [TradePro] config.yml already exists, skipping creation.
+[14:55:20] [Server thread/INFO]: [TradePro] lang.yml already exists, skipping creation.
+[14:55:20] [Server thread/INFO]: [TradePro] gui.yml already exists, skipping creation.
+[14:55:21] [TaskChainAsyncQueue Thread 0/INFO]: §a[TradePro] Detected Minecraft version: 121
+[14:55:21] [TaskChainAsyncQueue Thread 0/INFO]: §a[TradePro] Sounds loaded successfully!
+[14:55:21] [Server thread/INFO]: [TradePro] TradePro has started successfully!
+[14:55:21] [Server thread/INFO]: [spark] Starting background profiler...
+[14:55:22] [Server thread/INFO]: Done preparing level "world" (7.729s)
+[14:55:22] [Server thread/INFO]: Running delayed init tasks
+[14:55:22] [Server thread/INFO]: §a[TradePro] Sounds loaded successfully!
+[14:55:22] [Craft Scheduler Thread - 3 - TradePro/INFO]: [TradePro] Plugin is up to date.
+[14:55:23] [Server thread/INFO]: [TradePro] Web panel is disabled in config.yml
+[14:55:23] [Server thread/INFO]: Done (23.580s)! For help, type "help"
+[14:55:23] [Server thread/INFO]: Timings Reset
+[14:55:47] [User Authenticator #0/INFO]: UUID of player Cubart is 230e4467-5c47-3a77-a336-298bd99cad67
+[14:55:49] [Server thread/INFO]:  [GORDO] Cubart  joined the game
+[14:55:50] [Server thread/INFO]: Cubart[/127.101.162.158:49247] logged in with entity id 54 at ([world]519.074486326546, 63.5625, -903.443199031882)
+[14:55:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[14:57:36] [Server thread/INFO]: Cubart lost connection: Disconnected
+[14:57:36] [Server thread/INFO]:  [GORDO] Cubart  left the game
+[14:57:36] [Server thread/INFO]: Stopping server
+[14:57:36] [Server thread/INFO]: [TradePro] Disabling TradePro v2.0
+[14:57:36] [Server thread/INFO]: Saving players
+[14:57:36] [Server thread/INFO]: Saving worlds
+[14:57:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:57:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[14:57:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[14:57:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[14:57:39] [Server thread/INFO]: [ChunkHolderManager] Saved 774 block chunks, 774 entity chunks, 0 poi chunks in world 'world' in 2.34s
+[14:57:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:57:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[14:57:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[14:57:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[14:57:39] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.17s
+[14:57:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:57:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[14:57:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[14:57:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[14:57:39] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.09s
+[14:57:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:57:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:57:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:57:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
