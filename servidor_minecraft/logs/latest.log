@@ -61,3 +61,10 @@
 [22:23:23] [Server thread/INFO]: You whisper to  [GORDA] orxaatita: mira el tab
 [22:23:47] [Async Chat Thread - #1/INFO]: [Not Secure] <orxaatita> gordito
 [22:24:00] [Server thread/INFO]: You whisper to  [GORDA] orxaatita: DKJFHSDKJHFSKJD
+[22:35:22] [Server thread/INFO]: orxaatita lost connection: Disconnected
+[22:35:22] [Server thread/INFO]:  [GORDA] orxaatita left the game
+[22:36:31] [User Authenticator #1/INFO]: UUID of player Cubart is 230e4467-5c47-3a77-a336-298bd99cad67
+[22:36:32] [Server thread/INFO]:  [GORDO] Cubart  joined the game
+[22:36:32] [Server thread/INFO]: Cubart[/127.101.162.158:46783] logged in with entity id 2547 at ([world]518.8811821945259, 63.5625, -900.8036786818622)
+[22:37:04] [Server thread/INFO]: Cubart lost connection: Disconnected
+[22:37:04] [Server thread/INFO]:  [GORDO] Cubart  left the game
