@@ -68,3 +68,26 @@
 [22:36:32] [Server thread/INFO]: Cubart[/127.101.162.158:46783] logged in with entity id 2547 at ([world]518.8811821945259, 63.5625, -900.8036786818622)
 [22:37:04] [Server thread/INFO]: Cubart lost connection: Disconnected
 [22:37:04] [Server thread/INFO]:  [GORDO] Cubart  left the game
+[23:34:03] [Server thread/INFO]: Stopping server
+[23:34:03] [Server thread/INFO]: [TradePro] Disabling TradePro v2.0
+[23:34:04] [Server thread/INFO]: Saving players
+[23:34:04] [Server thread/INFO]: Saving worlds
+[23:34:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:34:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:34:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:34:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:34:04] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 92 entity chunks, 0 poi chunks in world 'world' in 0.02s
+[23:34:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:34:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:34:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:34:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:34:04] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[23:34:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:34:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:34:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:34:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:34:04] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[23:34:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:34:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:34:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:34:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
