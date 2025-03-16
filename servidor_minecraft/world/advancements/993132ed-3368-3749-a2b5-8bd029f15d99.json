@@ -12,6 +12,7 @@
       "minecraft:sparse_jungle": "2025-03-14 22:35:04 +0000",
       "minecraft:jungle": "2025-03-14 22:41:12 +0000",
       "minecraft:river": "2025-03-14 22:29:36 +0000",
+      "minecraft:lush_caves": "2025-03-16 13:27:18 +0000",
       "minecraft:dripstone_caves": "2025-03-14 23:01:26 +0000",
       "minecraft:plains": "2025-03-14 22:29:44 +0000"
     },
@@ -1623,6 +1624,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-16 13:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-03-16 13:24:34 +0000"
     },
     "done": true
   },
