@@ -303,6 +303,7 @@
       "cooked_chicken": "2025-03-14 22:45:29 +0000",
       "rotten_flesh": "2025-03-14 23:22:22 +0000",
       "cooked_mutton": "2025-03-14 22:45:50 +0000",
+      "cooked_cod": "2025-03-18 22:13:22 +0000",
       "melon_slice": "2025-03-14 23:22:44 +0000"
     },
     "done": false
@@ -2269,6 +2270,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-03-18 18:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-18 22:12:57 +0000"
     },
     "done": true
   },
