@@ -2430,9 +2430,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-19 22:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-19 22:43:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2025-03-19 22:36:24 +0000"
+      "minecraft:cow": "2025-03-19 22:36:24 +0000",
+      "minecraft:chicken": "2025-03-19 22:38:46 +0000",
+      "minecraft:sheep": "2025-03-19 22:38:39 +0000"
     },
     "done": false
   },
@@ -2448,9 +2462,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-19 22:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-19 22:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-19 22:43:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-03-19 22:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-19 22:43:49 +0000"
     },
     "done": true
   },
