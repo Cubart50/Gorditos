@@ -2562,6 +2562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-17 23:09:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-17 23:10:23 +0000"
@@ -2658,12 +2664,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-03-17 23:11:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-03-17 23:10:23 +0000"
@@ -2682,9 +2682,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "has_redstone_torch": "2025-03-17 23:09:44 +0000"
+      "has_redstone_block": "2025-03-17 23:11:29 +0000"
     },
     "done": true
   },
